@@ -1,0 +1,52 @@
+Stwórz aplikacjê klient-serwer dzia³aj¹c¹ w trybie TCP, przeprowadzaj¹c¹ kolokwium w formie testu. Pytania wraz z czterema mo¿liwymi odpowiedziami wczytywane s¹ z pliku bazaPytan.txt. Odpowiedzi studentów zapisywane s¹ w pliku bazaOdpowiedzi.txt, a wyniki zapisywane s¹ w pliku wyniki.txt.
+Ka¿dy klient posiada unikalny identyfikator (np. numer NIU). 
+
+program tworzy baze niestety nie dodaje kolumn blad w komendzie sql na plikach dziala prawidlowo relizacja bazy jest na executorach.
+
+
+
+
+
+WYNIKI Z KONSOLI :
+//klient
+Numer indeksu
+200
+
+Pytania
+
+ile ma liter slowo maciek?
+a)6
+b)3
+c)5
+d)9
+
+odpowiedz to :
+s
+ile jest 2+2?
+a)6
+b)3
+c)4
+d)9
+s
+odpowiedz to :
+
+jakiego kloru jest niebo?
+sa)niebieskie
+b)zielone
+
+c)granatowe
+sd)czerwone
+
+odpowiedz to :
+
+ile wazy kilo sera?
+sa)trzy kilogramy
+
+b)szesc kilogramow
+c)trzydziesci deko
+d)jeden kilogram
+s
+odpowiedz to :
+
+Twoj wynik to 0%
+Dziêkujemy za poœwiecony czas

@@ -1,0 +1,68 @@
+323
+Twoj wynik to 25%
+2034
+Twoj wynik to 50%
+41
+Twoj wynik to 50%
+Student o numerze: 4 otrzymal wynik 50
+Student o numerze: 213 otrzymal wynik 25
+Student o numerze: 203123 otrzymal wynik 25%
+Student o numerze: 203123 otrzymal wynik 0%
+Student o numerze: 203 otrzymal wynik 50%
+Student o numerze: 203 otrzymal wynik 0%
+Student o numerze: s otrzymal wynik 0%
+Student o numerze: 2000 otrzymal wynik 0%
+Student o numerze: asd otrzymal wynik 0%
+Student o numerze: s otrzymal wynik 0%
+Student o numerze: 230045 otrzymal wynik 0%
+Student o numerze: 999999 otrzymal wynik 25%
+Student o numerze: 999999 otrzymal wynik 0%
+Student o numerze: 2 otrzymal wynik 0%
+Student o numerze: 997 otrzymal wynik 0%
+Student o numerze: 997 otrzymal wynik 0%
+Student o numerze: 997 otrzymal wynik 0%
+Student o numerze: 20000 otrzymal wynik 0%
+Student o numerze: 201 otrzymal wynik 0%
+Student o numerze: 99732 otrzymal wynik 0%
+Student o numerze: 20003 otrzymal wynik 0%
+Student o numerze: 20040 otrzymal wynik 25%
+Student o numerze: 1111 otrzymal wynik 75%
+Student o numerze: 193 otrzymal wynik 50%
+Student o numerze: 2000 otrzymal wynik 50%
+Student o numerze: 200 otrzymal wynik 0%
+Student o numerze: sodd otrzymal wynik 0%
+Student o numerze: 200s otrzymal wynik 25%
+Student o numerze: 200 otrzymal wynik 50%
+Student o numerze: 2000 otrzymal wynik 25%
+Student o numerze: 200 otrzymal wynik 25%
+Student o numerze: 2000 otrzymal wynik 0%
+Student o numerze: 20000 otrzymal wynik 0%
+Student o numerze: Maciek otrzymal wynik 75%
+Student o numerze: 200 otrzymal wynik 50%
+Student o numerze: 2100 otrzymal wynik 100%
+Student o numerze: 997 otrzymal wynik 100%
+Student o numerze: 9910 otrzymal wynik 50%
+Student o numerze: 30 otrzymal wynik 50%
+Student o numerze: 888 otrzymal wynik 50%
+Student o numerze: 2006666 otrzymal wynik 50%
+Student o numerze: 1999 otrzymal wynik 75%
+Student o numerze: 7773 otrzymal wynik 75%
+Student o numerze: 1553 otrzymal wynik 50%
+Student o numerze: 667 otrzymal wynik 75%
+Student o numerze: 88393 otrzymal wynik 50%
+Student o numerze: 111 otrzymal wynik 50%
+Student o numerze: 2399 otrzymal wynik 100%
+Student o numerze: 3994 otrzymal wynik 100%
+Student o numerze: 20001 otrzymal wynik 50%
+Student o numerze: 2345 otrzymal wynik 50%
+Student o numerze: 2314 otrzymal wynik 50%
+Student o numerze: 1233 otrzymal wynik 50%
+Student o numerze: 9991 otrzymal wynik 50%
+Student o numerze: 9193 otrzymal wynik 50%
+Student o numerze: a otrzymal wynik 0%
+Student o numerze: 1283 otrzymal wynik 100%
+Student o numerze: 93 otrzymal wynik 50%
+Student o numerze: 424 otrzymal wynik 0%
+Student o numerze: 6566 otrzymal wynik 25%
+Student o numerze: 2003 otrzymal wynik 0%
+Student o numerze: 555 otrzymal wynik 25%

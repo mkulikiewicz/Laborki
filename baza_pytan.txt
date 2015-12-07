@@ -1,0 +1,20 @@
+ile ma liter slowo maciek?
+a)6
+b)3
+c)5
+d)9
+ile jest 2+2?
+a)6
+b)3
+c)4
+d)9
+jakiego kloru jest niebo?
+a)niebieskie
+b)zielone
+c)granatowe
+d)czerwone
+ile wazy kilo sera?
+a)trzy kilogramy
+b)szesc kilogramow
+c)trzy deko
+d)jeden kilogram
